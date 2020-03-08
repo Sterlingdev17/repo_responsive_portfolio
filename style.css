@@ -16,6 +16,9 @@ body {
     background-color:lightgray;
 }
 
-.card {
-    height: 100px;
+
 }
+.text-muted {
+    padding: 10px;
+   background-color: yellow;
+} 
