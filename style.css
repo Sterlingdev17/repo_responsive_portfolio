@@ -3,12 +3,24 @@
 }
 .navbar-brand {
     margin-left: 150px;
-    background-color: green;
-    padding: 20px;
+    background:teal;
+    padding: 10px;
 }
 .navbar {
     background: white;
 }
 .container {
-    background-color: white;
+    margin-left: 150px;
+}
+}
+.wrapper{
+    background-color: lightgray;
+}
+
+footer {
+    text-align: center;
+   
+}
+img {
+    margin-top: 5px;
 }
