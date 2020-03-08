@@ -10,6 +10,7 @@
     background-color:white;
     margin-top: 100px;
     margin-left: 150px;
+    margin-bottom: 100px;
 }
 
 body {
@@ -17,8 +18,8 @@ body {
 }
 
 
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: black;
 }
-.text-muted {
-    padding: 10px;
-   background-color: yellow;
-} 
