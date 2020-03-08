@@ -1,26 +1,8 @@
-* {
-    ;
-}
-.navbar-brand {
-    margin-left: 150px;
-    background:teal;
-    padding: 10px;
-}
-.navbar {
-    background: white;
-}
 .container {
-    margin-left: 150px;
-}
-}
-.wrapper{
-    background-color: lightgray;
+    width: 90%;
+    background-color:white;
 }
 
-footer {
-    text-align: center;
-   
-}
-img {
-    margin-top: 5px;
+body {
+    background-color:lightgray;
 }
