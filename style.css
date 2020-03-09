@@ -11,6 +11,15 @@
     margin-top: 100px;
     margin-left: 150px;
     margin-bottom: 100px;
+    padding-bottom: 100px;
+}
+.text-wrap{
+    float: left;
+    margin: 10px;
+    
+}
+.row {
+    padding-bottom: 300px;
 }
 
 body {
@@ -21,5 +30,8 @@ body {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: black;
+    background-color: gray;
+}
+p {
+    font-size: 35px;
 }
