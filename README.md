@@ -9,6 +9,7 @@ PROBLEMS
 this our first major homework, in this homework we actually used a framework. first of all I would like to mention the biggest problem i had throughout this homework were really dumb and stupidity typos; simple things like closing a tags, messing a chevron. or a quotation mark ect..
 
 JOY 
+
 I also enjoy doing it. I caught myself spending 6 to 7 hours non stop doing homework without noticing, it felt good when you finally solved a problem. I feel like that's just the beginning of it.
 
 LANGUAGES
