@@ -6,7 +6,7 @@ This is Homework #2
  
 PROBLEMS
 
-this our first major homework, in this homework we actually used a framework. first of all I would like to mention the biggest problem i had throughout this homework were really dumb and stupidity typos; simple things like closing a tags, messing a chevron. or a quotation mark ect..
+this our first major homework, in this homework we actually used a framework. first of all I would like to mention the biggest problem i had throughout this homework were really dumb and stupidity typos; simple things like closing a tags, missing a chevron. or a quotation mark thing like that. I realize I have to pay more attention to my code so I can spend less time debugging.
 
 JOY 
 
