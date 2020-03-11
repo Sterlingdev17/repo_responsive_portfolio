@@ -10,25 +10,17 @@
     background-color:white;
     margin-top: 100px;
     margin-left: 150px;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
     padding-bottom: 100px;
 }
 .text-wrap{
     float: left;
     margin: 15px;
     
-}
-.row {
-    
-    
-}
-
-.card {
-    margin 20px
-}
+}    
 
 body {
-    background-color:lightgray;
+    background-color: lightgray;
 }
 
 
@@ -37,6 +29,7 @@ footer {
     padding: 20px;
     background-color: gray;
 }
+
 p {
     font-size: 25px;
 }
