@@ -15,11 +15,16 @@
 }
 .text-wrap{
     float: left;
-    margin: 10px;
+    margin: 15px;
     
 }
 .row {
-    padding-bottom: 300px;
+    
+    
+}
+
+.card {
+    margin 20px
 }
 
 body {
@@ -33,5 +38,9 @@ footer {
     background-color: gray;
 }
 p {
-    font-size: 35px;
+    font-size: 25px;
+}
+
+.card-title {
+    text-align: center;
 }
